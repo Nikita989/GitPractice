@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     func dummy(){
         
     }
+    
+    func fromMain(){
+        
+    }
 
 
 }
